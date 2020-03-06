@@ -1,0 +1,7 @@
+h1, li {
+    cursor: pointer;
+}
+
+.student-not_active {
+    color: gray;
+}
